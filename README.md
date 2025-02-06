@@ -1,4 +1,4 @@
-![me](https://files.catbox.moe/4cj8h5.png)
+![me](https://files.catbox.moe/bfwegd.png)
 
 <!--
 **hikarikuina/hikarikuina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
