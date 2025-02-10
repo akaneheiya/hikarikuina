@@ -1,6 +1,9 @@
 <p align="center">
 art by @blondaslol tumblr
 </p>
+<p align="center">
+  hearts player ⁠♡__⁠♡
+  </p>
 <!--
 **hikarikuina/hikarikuina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
