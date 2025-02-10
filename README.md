@@ -1,6 +1,5 @@
-![me](https://files.catbox.moe/bfwegd.png)
 <p align="center">
-just a g/pal with alot of diff styles
+art by @blondaslol tumblr
 </p>
 <!--
 **hikarikuina/hikarikuina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
