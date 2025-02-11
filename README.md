@@ -1,5 +1,5 @@
 <p align="center">
-art by @blondaslol tumblr
+c+h plzzeasies plz pzl
 </p>
 
 <!--
