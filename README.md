@@ -1,3 +1,3 @@
 <p align="center">
-  dont b weird 
+aib gooner
 </p>
