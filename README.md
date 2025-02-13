@@ -1,5 +1,10 @@
 <p align="center">
-c+h plzzeasies plz pzl
+  <b>Some Links:</b><br>
+  <a Hi="#">Link 1</a> |
+  <a https://valuhntine.atabook.org/="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
 
 <!--
