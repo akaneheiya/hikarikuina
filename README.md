@@ -1,6 +1,1 @@
-<p align="center">
-aib gooner to da max 
-</p>
-<p align="center">
-heiya haters perish 💔
-</p>
+![](https://files.catbox.moe/9nbncv.png)
